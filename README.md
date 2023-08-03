@@ -1,4 +1,6 @@
-### Hi , I'm Pallavi  Mishra
+### Hi, there! I'm Pallavi!
+
+<hr>
 
 <!--
 **Pallavimishrapm/Pallavimishrapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
