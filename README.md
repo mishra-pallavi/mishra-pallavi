@@ -4,7 +4,7 @@
 
 ### :blush: Talking about Personal Stuffs:
 
-<img align="right" height="225" width="400" alt="Mehedi Islam Ripon" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
+<img align="right" height="250" width="350" alt="Mehedi Islam Ripon" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
