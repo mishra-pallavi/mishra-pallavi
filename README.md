@@ -11,7 +11,6 @@
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 -  📰 &nbsp; Reading tech blogs whenever possible.
 -  🍕 &nbsp; Travelling.
--  🚀 &nbsp; I’m currently learning Python.
 -  :computer: &nbsp; Most written code line `print("hello world");`
 -  📝 &nbsp; Checkout my [Resume](https://github.com/Pallavimishrapm).
 
